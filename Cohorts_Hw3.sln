@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cohorts_Hw3.DataAccess", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cohorts_Hw3.Entities", "Cohorts_Hw3.Entities\Cohorts_Hw3.Entities.csproj", "{69C2D6E3-C5AE-4E4D-A640-F98DFBE7E0F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cohorts_Hw3.UnitTest", "Cohorts_Hw3.UnitTestt\Cohorts_Hw3.UnitTest.csproj", "{7B8F4598-2176-4445-BC20-FF8F1F2217AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{69C2D6E3-C5AE-4E4D-A640-F98DFBE7E0F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69C2D6E3-C5AE-4E4D-A640-F98DFBE7E0F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69C2D6E3-C5AE-4E4D-A640-F98DFBE7E0F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B8F4598-2176-4445-BC20-FF8F1F2217AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B8F4598-2176-4445-BC20-FF8F1F2217AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B8F4598-2176-4445-BC20-FF8F1F2217AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B8F4598-2176-4445-BC20-FF8F1F2217AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
